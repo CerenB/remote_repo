@@ -2,6 +2,10 @@
 
 #exercise for dev vs. master branch
 
+<<<<<<< HEAD
+=======
+#exersise for master vs. dev
+>>>>>>> dev
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar nisi orci, ut gravida sem dapibus accumsan. Nam pretium lorem velit, in fermentum ex blandit sed. Pellentesque enim magna, placerat at suscipit vitae, interdum eget nunc. Quisque egestas sed augue pulvinar fringilla. Integer eu lacus dignissim, fringilla risus ac, pretium arcu. Mauris sodales mi non orci accumsan accumsan. Aliquam placerat tellus sed semper ornare. Pellentesque felis diam, semper eu auctor eu, imperdiet sit amet erat. Fusce nec sollicitudin dolor. Aliquam lacinia diam vel felis sollicitudin, non lobortis urna ullamcorper. Sed ullamcorper suscipit congue. Donec id orci in nunc vehicula semper vitae sed quam. Pellentesque lobortis risus vel turpis egestas molestie. Curabitur feugiat sit amet mauris ut tincidunt. Nunc lorem magna, luctus sit amet lectus sed, tempus imperdiet urna.**
 
